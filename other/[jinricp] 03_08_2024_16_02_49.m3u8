@@ -1,0 +1,14 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:11
+#EXTINF:10.033667,
+https://gw.ipfs-lens.dev/ipfs/bafybeigoikzbgjbcydrwuzqobky6ov4tyvyqbahju5lmhyzav53h6mxqxu
+#EXTINF:10.000667,
+https://gw.ipfs-lens.dev/ipfs/bafybeidyzeudc3elryzibnju6g7ogcjurtubaed3ky6facvuq4s7bisrpe
+#EXTINF:10.000667,
+https://gw.ipfs-lens.dev/ipfs/bafybeia7xtbj3ypdyzepxtehnvnah5q4d4f7l2qjp7h5sdpxbckgc273oq
+#EXTINF:6.066667,
+https://gw.ipfs-lens.dev/ipfs/bafybeiaqgpi2yu5hvjvta5eh4i7qqvsqz5q6cqbjitlc74zdt73w4sdpvi
+#EXT-X-ENDLIST
